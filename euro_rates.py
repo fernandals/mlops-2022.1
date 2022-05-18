@@ -1,6 +1,7 @@
 import pandas as pd
 
-import matplotlib.pyplot as plt
+from matplotlib import pyplot as plt
+#import matplotlib.pyplot as plt
 #%matplotlib inline
 
 from matplotlib import style
