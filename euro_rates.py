@@ -10,7 +10,7 @@ style.use('ggplot')
 # Idea: Impact of the euro exchange rate on the countries
 # most affected at the beginning of the coronavirus pandemic.
 
-exchange_rates = pd.read_csv('/content/drive/MyDrive/mlops/euro-daily-hist_1999_2020.csv')
+exchange_rates = pd.read_csv('euro-daily-hist_1999_2020.csv')
 # The DataFrame has 5699 rows and 40 columns.
 # There are many null values.
 # Some columns are type float, but the majority is object.
