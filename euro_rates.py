@@ -1,7 +1,7 @@
 import pandas as pd
 
 import matplotlib.pyplot as plt
-%matplotlib inline
+#%matplotlib inline
 
 from matplotlib import style
 style.use('ggplot')
