@@ -1,0 +1,23 @@
+Trabalho 02 (Unidades 02 e 02)
+
+A semana 08 do curso apresenta os três primeiros passos da metodologia a ser adotada para a construção de um modelo de aprendizado de máquina com vistas a ser implantado em produção, a saber: ETL, Checagem dos Dados e Segregação dos Dados. 
+Uma série de videos e scripts foram disponibilizados onde as ferramentas de MLOPs apresentadas até então no curso são exploradas em detalhes. 
+
+O trabalho consiste na reprodução desses três primeiros passos (ETL, checagem e segregação dos dados) porém utilizando o dataset similar ao que foi apresentado no curso do Dataquest sobre Fundamentos de Aprendizado de Máquina e envolvendo um problema de regressão com dados da Airbnb. Fiz uma coleta de um dado mais atual e relacionado com a cidade do Rio de Janeiro. O dataset pode ser baixado do link a seguir: https://drive.google.com/file/d/16zF4MHEP_bBxAEWpQgVocPupTjRRAgfP/view?usp=sharing
+
+Itens para ser avaliados:
+
+Implementar os três passos da metodologia de MLOPs (ETL, checagem e segregação dos dados).
+Criar um repositório no GitHub com todo o código gerado e pelo menos um arquivo README descrevendo todos os detalhes do que foi implementado, inclusive indicando comandos para execução e reprodução dos códigos, instalação do ambiente de desenvolvimento, figuras ilustrativas, entre outros. Um exemplo de arquivo readme a ser seguido pode ser encontrado aqui: https://github.com/ivanovitchm/mlops_nd_c3
+Utilizar as mesmas ferramentas sugeridas na Semana 08 do curso. Caso seja necessário utilizar outras ferramentas fiquem a vontade. Importante também descrever no arquivo readme as ferramentas que foram utilizadas.
+Referenciar tudo o que foi utilizado por terceiros.
+O trabalho poderá ser feito em dupla ou individualmente. 
+O trabalho irá compor 3,00 (três pontos). 
+Um video de até 5min descrevendo todo o trabalho deverá ser feito e o link compartilhado de forma explícita no arquivo README do repositório. Como sugestão, utilizar o LOOM para gravação. Mas fiquem a vontade em usar a ferramenta que se sentirem mais confortáveis ou conhecerem melhor. O link gerado pode ser do próprio LOOM ou do Youtube. 
+A submissão irá conter APENAS o link do repositório do projeto no GitHub. 
+Não esqueçam de identificar todos os membros do grupo no arquivo README!!!!!
+Na próxima segunda-feira, 27 de Junho, estarei em sala de aula para tirar dúvidas sobre o trabalho e discutir os próximos passos da disciplina. Não faltem pois estarei foram em uma missão oficial da UFRN de 02 a 17 de julho e precisamos combinar direitinho o andamento da disciplina. Não substimem o tempo para fazer o trabalho. O deadline é 04 de Julho.
+
+att,
+
+Ivanovitch
